@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Animales\Animales\bin\Debug\Animales.exe.config
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Animales.exe
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Animales.pdb
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.csprojResolveAssemblyReference.cache
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.Form1.resources
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.Properties.Resources.resources
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.csproj.GenerateResource.Cache
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.exe
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\obj\Debug\Animales.pdb
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Logica.dll
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Logica.pdb
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Modelo.dll
+c:\Users\usuario\Documents\Visual Studio 2012\Projects\Animales\Animales\bin\Debug\Modelo.pdb
